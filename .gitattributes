@@ -1,8 +1,0 @@
-*.cs linguist-vendored=false
-
-*.mathematica linguist-vendored
-*.m linguist-vendored
-*.nb linguist-vendored
-*.xml linguist-vendored
-*.meta linguist-vendored
-*.dll linguist-vendored
