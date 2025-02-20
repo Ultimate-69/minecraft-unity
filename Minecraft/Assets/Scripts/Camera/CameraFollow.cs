@@ -9,7 +9,7 @@ public class CameraFollow : MonoBehaviour
     {
         currentCamera = Camera.main;
     }
-    void FixedUpdate()
+    void Update()
     {
         currentCamera.transform.position = cameraReference.transform.position;
     }
