@@ -37,8 +37,6 @@ public class PlayerMovement : MonoBehaviour
         {
             verticalInput = 0;
         }
-
-        Debug.Log(verticalInput);
     }
 
     void FixedUpdate() 
